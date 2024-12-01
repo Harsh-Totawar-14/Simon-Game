@@ -1,6 +1,3 @@
 # Simon-Game
-logic building 
+This Project for Logic Building
 
-# harsh totawar
-
-logic build
